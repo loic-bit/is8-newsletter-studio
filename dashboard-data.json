@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-11T21:01:44.993114+00:00",
+  "generated_at": "2026-11-13T20:44:35.088963+00:00",
   "research": {
     "reddit_questions": [
+      {
+        "source": "r/realestateinvesting",
+        "type": "post",
+        "title": "Has anyone developed boutique hotels in tertiary markets?",
+        "text": "<!-- SC_OFF --><div class=\"md\"><p>I’m wondering what the process looks like. I have my MSRED and have worked in CRE lending (with a lot of hospitality experience) for just shy of a decade, so I’m familiar with the process conceptually but would love to hear from someone who’s done this personally. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mikeanlike\"> /u/Mikeanlike </a> <br/> <span><a href=\"https://www.reddit.com/r/realestateinvesting/comments/1xuwj5t/has_anyone_developed_boutique_hotels_in_tertiary/\">[link]</a></span> &#32; <span><a href=\"h",
+        "score": 0,
+        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xuwj5t/has_anyone_developed_boutique_hotels_in_tertiary/",
+        "is_question": true,
+        "age_days": 0
+      },
       {
         "source": "r/realestateinvesting",
         "type": "post",
@@ -61,16 +71,6 @@
         "url": "https://www.reddit.com/r/realestateinvesting/comments/1x9fko7/real_estate_or_stock_market_lets_do_the_math/",
         "is_question": true,
         "age_days": 0
-      },
-      {
-        "source": "r/realestateinvesting",
-        "type": "post",
-        "title": "How’s everyone feeling?",
-        "text": "<!-- SC_OFF --><div class=\"md\"><p>New investor here. I feel like everything I’m reading in RE subs is doom and gloom, but I feel like this is a great time to be an investor. There are some serious deals to be had. I don’t know anything about multifamily/commercial, but in single family, I’m trying to figure out what to buy and the best way to do it. </p> <p>Seasoned investors, how are you feeling? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/flipflops81\"> /u/flipflops81 </a> <br/> <span><a href=\"https://www.reddit.com/r/realestateinvesting/comments/1x",
-        "score": 0,
-        "url": "https://www.reddit.com/r/realestateinvesting/comments/1x8bjg3/hows_everyone_feeling/",
-        "is_question": true,
-        "age_days": 0
       }
     ],
     "reddit_top_posts": [
@@ -97,10 +97,40 @@
       {
         "source": "r/realestateinvesting",
         "type": "post",
+        "title": "Has anyone developed boutique hotels in tertiary markets?",
+        "text": "<!-- SC_OFF --><div class=\"md\"><p>I’m wondering what the process looks like. I have my MSRED and have worked in CRE lending (with a lot of hospitality experience) for just shy of a decade, so I’m familiar with the process conceptually but would love to hear from someone who’s done this personally. Thanks!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Mikeanlike\"> /u/Mikeanlike </a> <br/> <span><a href=\"https://www.reddit.com/r/realestateinvesting/comments/1xuwj5t/has_anyone_developed_boutique_hotels_in_tertiary/\">[link]</a></span> &#32; <span><a href=\"h",
+        "score": 0,
+        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xuwj5t/has_anyone_developed_boutique_hotels_in_tertiary/",
+        "is_question": true,
+        "age_days": 0
+      },
+      {
+        "source": "r/realestateinvesting",
+        "type": "post",
+        "title": "Corporate leasing- luxury properties how easy",
+        "text": "<!-- SC_OFF --><div class=\"md\"><p>So I have a fully furnished luxury property I need to rent out. It’s in cypress tx </p> <p>How easy is to rent out to corporate leasing? Or do I do rent by room? What is the best way to easily rent it out? I hate to do air bnb as it is work required and it’s not a tourist area</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Leather-Wheel1115\"> /u/Leather-Wheel1115 </a> <br/> <span><a href=\"https://www.reddit.com/r/realestateinvesting/comments/1xuewwv/corporate_leasing_luxury_properties_how_easy/\">[link]</a></span> &#32; <",
+        "score": 0,
+        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xuewwv/corporate_leasing_luxury_properties_how_easy/",
+        "is_question": false,
+        "age_days": 0
+      },
+      {
+        "source": "r/realestateinvesting",
+        "type": "post",
         "title": "Financing an apartment sprinkler system for Colorado Apartment Owners",
         "text": "<!-- SC_OFF --><div class=\"md\"><p>Has anyone had success finding financing through banks, government programs, or grants to help cover the cost of installing fire sprinkler systems in existing apartment buildings in Colorado?</p> <p>I&#39;m looking into retrofitting an existing apartment building and would like to know if there are any low-interest loans, grant programs, or other financial assistance available to help offset the installation costs.</p> <p>I&#39;d appreciate hearing from anyone who has gone through this process or knows of any programs worth looking into. Thanks!</p> </div><!--",
         "score": 0,
         "url": "https://www.reddit.com/r/realestateinvesting/comments/1xszugf/financing_an_apartment_sprinkler_system_for/",
+        "is_question": false,
+        "age_days": 0
+      },
+      {
+        "source": "r/realestateinvesting",
+        "type": "post",
+        "title": "Having trouble selling a 3 bed 2 bath investment property",
+        "text": "<!-- SC_OFF --><div class=\"md\"><p>Like the title says I’ve been trying to sell a 3 bedroom 2 bath investment property for 43 days. I purchased the house in January 2025 for 445k. The plan was to hold long term but unforeseen circumstances have led me to need to sell. The realtor that helped me buy it said we should start at 459k. We signed the agreement on 9/25 and she had another agent host an open house that Sunday. The following Sunday a different agent did another open house. After that I found out through my contractor that the agent went out of the country and didn’t let me know they’d b",
+        "score": 0,
+        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xpzqz5/having_trouble_selling_a_3_bed_2_bath_investment/",
         "is_question": false,
         "age_days": 0
       },
@@ -112,16 +142,6 @@
         "score": 0,
         "url": "https://www.reddit.com/r/realestateinvesting/comments/1xpeozj/auto_reply_via_ai_for_facebook_marketplace/",
         "is_question": true,
-        "age_days": 0
-      },
-      {
-        "source": "r/realestateinvesting",
-        "type": "post",
-        "title": "Having trouble selling a 3 bed 2 bath investment property",
-        "text": "<!-- SC_OFF --><div class=\"md\"><p>Like the title says I’ve been trying to sell a 3 bedroom 2 bath investment property for 43 days. I purchased the house in January 2025 for 445k. The plan was to hold long term but unforeseen circumstances have led me to need to sell. The realtor that helped me buy it said we should start at 459k. We signed the agreement on 9/25 and she had another agent host an open house that Sunday. The following Sunday a different agent did another open house. After that I found out through my contractor that the agent went out of the country and didn’t let me know they’d b",
-        "score": 0,
-        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xpzqz5/having_trouble_selling_a_3_bed_2_bath_investment/",
-        "is_question": false,
         "age_days": 0
       },
       {
@@ -151,26 +171,6 @@
         "text": "<!-- SC_OFF --><div class=\"md\"><p>This thread is for newer investors, basic questions, first deals, and general real estate investing discussion that may not need a standalone post.</p> <p>Good topics for this thread:</p> <ul> <li>First rental property questions</li> <li>Deal analysis</li> <li>Financing and lending questions</li> <li>House hacking</li> <li>Tenant issues</li> <li>Market strategy questions</li> <li>Career transition into real estate</li> <li>“Does this deal make sense?” discussions</li> </ul> <p>If you’re asking for advice:</p> <ul> <li>Include numbers</li> <li>Include market/lo",
         "score": 0,
         "url": "https://www.reddit.com/r/realestateinvesting/comments/1xkg5gd/saturday_mentorship_questions_thread/",
-        "is_question": false,
-        "age_days": 0
-      },
-      {
-        "source": "r/realestateinvesting",
-        "type": "post",
-        "title": "Utility income as value add (Solar and antenna income)",
-        "text": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been thinking about a program we have in a few of the New England states which allow for generous production rates for solar on rooftop installations.</p> <p>For example, Rhode Island has a Renewable Energy Growth program that pays around $0.30/kwh guaranteed for 20 years for front of the meter installs. There is still the 30% federal ITC for new commercial installations until Dec 2027 which brings the net cost down to where it starts to be a worthwhile investment.</p> <p>Does anyone have experience with adding solar or antenna income to a commercial ",
-        "score": 0,
-        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xkdvz2/utility_income_as_value_add_solar_and_antenna/",
-        "is_question": false,
-        "age_days": 0
-      },
-      {
-        "source": "r/realestateinvesting",
-        "type": "post",
-        "title": "Invoicing with ACH transfer",
-        "text": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been having trouble with getting a functional invoicing solution for rentals. Quickbooks and stripe have denied my tenant from using ACH transfers with minimal explanation. On quickbooks, it was working for a year before quickbooks decided they wanted out. It isn&#39;t his bank that is the problem. The bank never even got the request. Credit cards work, but are high fees. Wave instantly denied me, with minimal explanation. What do you use for ACH transfer billing, and are you happy with it?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"ht",
-        "score": 0,
-        "url": "https://www.reddit.com/r/realestateinvesting/comments/1xjnpc5/invoicing_with_ach_transfer/",
         "is_question": false,
         "age_days": 0
       }
@@ -208,23 +208,15 @@
         "likes": 0,
         "is_question": false,
         "url": "https://youtube.com/watch?v=sFgKivpMgZk"
-      },
-      {
-        "video_id": "ygTQ-d9qZcg",
-        "video_title": "Buy a House With $0 (BRRRR Method Explained)",
-        "text": "the refi part is always where this falls apart if the bank wants seasoning before they&#39;ll cash you out. ran into that exact issue on my first rehab and ended up going through beltway lending since they underwrote off the rental income instead, loan officers there actually invest themselves so they got why the timing mattered. made the whole cycle actually repeatable after that.",
-        "likes": 0,
-        "is_question": false,
-        "url": "https://youtube.com/watch?v=ygTQ-d9qZcg"
       }
     ],
     "news_items": [
       {
         "source": "Google News: Section 8 vouchers",
-        "title": "Marshfield Community Development Authority Recognized by HUD for Housing Program Performance - OnFocus",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzlKQy1FZUg5RnF1WTJJRFpwRkFyR1lXRHBDQVlVVXh3dlNIVm9NUmlLdHRzT3hUZTdvaFZfOVZ3MU94OWhTam9xOG1tRjZqZnhEa0pxaGhnN19ickRtVDJNOE1GQldzWU1hcVp6ZFVqS0dHMWMzS3lrX2lrdExUY1FxNG5sQzhwSm93UVRDbmFzaERjUk5pTVpjNXRPaWpIZlRfeDNyOHVwV3RvMnREcVVGc3RvektJU3c?oc=5\" target=\"_blank\">Marshfield Community Development Authority Recognized by HUD for Housing Pro",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzlKQy1FZUg5RnF1WTJJRFpwRkFyR1lXRHBDQVlVVXh3dlNIVm9NUmlLdHRzT3hUZTdvaFZfOVZ3MU94OWhTam9xOG1tRjZqZnhEa0pxaGhnN19ickRtVDJNOE1GQldzWU1hcVp6ZFVqS0dHMWMzS3lrX2lrdExUY1FxNG5sQzhwSm93UVRDbmFzaERjUk5pTVpjNXRPaWpIZlRfeDNyOHVwV3RvMnREcVVGc3RvektJU3c?oc=5",
-        "date": "Wed, 11 Nov 2026 14:46:45 GMT"
+        "title": "SEK-CAP reopens Section 8 housing voucher waiting list to new applicants Monday - KOAM News Now",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPREdMYldaaHI5QmtEQ3dsYjFJT0pNVVExQVNqRzUyVTAtNkhDaTc5UnZ1NldyMGFrZXFmUUtfb2hvQWFQLWVqRnFJd0JYdHZMaDJrVnBBblRqM3VjX196MmFzZ0FVSlVZRU1jOWtvXzN1aHJLd0FTU0ZyWk5MY3BEYlFKb0JwOFdXaGhwNWtpZkkxR0ZzYk8yNUZxRy0wWjhYdmVFc09SRUtvNE9sVWJGdjBvSk9saVNoS2JJbFEwSm9JUTBWLVc3dGpIay1iWHhmcjlMT1BVOURMMGJNWXlXazV6U0d6RXlDZy05dldFWDBjZ2UxZTZ0WW05d0dxa25ORm03eg",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPREdMYldaaHI5QmtEQ3dsYjFJT0pNVVExQVNqRzUyVTAtNkhDaTc5UnZ1NldyMGFrZXFmUUtfb2hvQWFQLWVqRnFJd0JYdHZMaDJrVnBBblRqM3VjX196MmFzZ0FVSlVZRU1jOWtvXzN1aHJLd0FTU0ZyWk5MY3BEYlFKb0JwOFdXaGhwNWtpZkkxR0ZzYk8yNUZxRy0wWjhYdmVFc09SRUtvNE9sVWJGdjBvSk9saVNoS2JJbFEwSm9JUTBWLVc3dGpIay1iWHhmcjlMT1BVOURMMGJNWXlXazV6U0d6RXlDZy05dldFWDBjZ2UxZTZ0WW05d0dxa25ORm03eg?oc=5",
+        "date": "Thu, 12 Nov 2026 22:45:21 GMT"
       },
       {
         "source": "Google News: Section 8 vouchers",
@@ -235,24 +227,38 @@
       },
       {
         "source": "Google News: Section 8 vouchers",
+        "title": "New HUD Citizenship Rule: What Texas Renters Need To Know - Dallas Express",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWRGNTRtZHdYbkg4X2JFZ3B4Q2dVaTJOMUJydF8zb1V0NGR6T3BwYjVyRU1xS2xQcFBZTzl0NTh1b3ROTlJNeTZHenNPYVN2b3kwWjhOUnNHcXUyY1kza19RRlV0bzdiYWNUYzl4SVJzRF9fT2N4MGtaanhVQV9fc1lfd3dpRThPcXV5Mk9kS3NCekk?oc=5\" target=\"_blank\">New HUD Citizenship Rule: What Texas Renters Need To Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas Express</font>",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWRGNTRtZHdYbkg4X2JFZ3B4Q2dVaTJOMUJydF8zb1V0NGR6T3BwYjVyRU1xS2xQcFBZTzl0NTh1b3ROTlJNeTZHenNPYVN2b3kwWjhOUnNHcXUyY1kza19RRlV0bzdiYWNUYzl4SVJzRF9fT2N4MGtaanhVQV9fc1lfd3dpRThPcXV5Mk9kS3NCekk?oc=5",
+        "date": "Thu, 12 Nov 2026 17:33:12 GMT"
+      },
+      {
+        "source": "Google News: Section 8 vouchers",
+        "title": "Marshfield Community Development Authority Recognized by HUD for Housing Program Performance - OnFocus",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzlKQy1FZUg5RnF1WTJJRFpwRkFyR1lXRHBDQVlVVXh3dlNIVm9NUmlLdHRzT3hUZTdvaFZfOVZ3MU94OWhTam9xOG1tRjZqZnhEa0pxaGhnN19ickRtVDJNOE1GQldzWU1hcVp6ZFVqS0dHMWMzS3lrX2lrdExUY1FxNG5sQzhwSm93UVRDbmFzaERjUk5pTVpjNXRPaWpIZlRfeDNyOHVwV3RvMnREcVVGc3RvektJU3c?oc=5\" target=\"_blank\">Marshfield Community Development Authority Recognized by HUD for Housing Pro",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYzlKQy1FZUg5RnF1WTJJRFpwRkFyR1lXRHBDQVlVVXh3dlNIVm9NUmlLdHRzT3hUZTdvaFZfOVZ3MU94OWhTam9xOG1tRjZqZnhEa0pxaGhnN19ickRtVDJNOE1GQldzWU1hcVp6ZFVqS0dHMWMzS3lrX2lrdExUY1FxNG5sQzhwSm93UVRDbmFzaERjUk5pTVpjNXRPaWpIZlRfeDNyOHVwV3RvMnREcVVGc3RvektJU3c?oc=5",
+        "date": "Wed, 11 Nov 2026 14:46:45 GMT"
+      },
+      {
+        "source": "Google News: Section 8 vouchers",
+        "title": "SEK-CAP to open Section 8 housing voucher applications Nov. 16 - The Fort Scott Tribune",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFRXX0NRSW9JbXZNU3U5ZzFHZ2ZrdVJtSFNfZkNIbUNDMTJ6RDJLR3RmNTFaVDhobGQ2Uk1LNC1iRC1PT2lTRGtweHR3cFp5SkUybG5vTjhJNHdfT194dDlrclBMbnd1VV9tTlBzSWk2cFBReURvWTF0TE9ZVFRzOFBMQjZIV2dvUm11amtHYVAxZ1l5b3dMT3QyNVI0al92bWpPMi1ac21XZw?oc=5\" target=\"_blank\">SEK-CAP to open Section 8 housing voucher applications Nov. 16</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFRXX0NRSW9JbXZNU3U5ZzFHZ2ZrdVJtSFNfZkNIbUNDMTJ6RDJLR3RmNTFaVDhobGQ2Uk1LNC1iRC1PT2lTRGtweHR3cFp5SkUybG5vTjhJNHdfT194dDlrclBMbnd1VV9tTlBzSWk2cFBReURvWTF0TE9ZVFRzOFBMQjZIV2dvUm11amtHYVAxZ1l5b3dMT3QyNVI0al92bWpPMi1ac21XZw?oc=5",
+        "date": "Sun, 08 Nov 2026 01:41:17 GMT"
+      },
+      {
+        "source": "Google News: Section 8 vouchers",
+        "title": "New HUD Rule Changes Eligibility Checks for Assisted Tenants - Wiregrass Daily News",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTVwUFI3TjNodzdkR1RoT0lXaERJZjZlS1czUHRhOWxWRVN2SmdjVWszdWE1dGVMeDFIVmhDTVhuNlhZQ2VtX0Q0b01xVTZ0NURIcnZnNW14ZVRlamFmMjBDa1k2aXJDVnhQaGlfaWpTamJQLTd0Z2dmTnRoLUI5dXNkYXF2ekkxMVFtY0ZGMmJNeDFvdmhGLUZyYkdXUy1MUksybDh0R0t5QXdn?oc=5\" target=\"_blank\">New HUD Rule Changes Eligibility Checks for Assisted Tenants</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTVwUFI3TjNodzdkR1RoT0lXaERJZjZlS1czUHRhOWxWRVN2SmdjVWszdWE1dGVMeDFIVmhDTVhuNlhZQ2VtX0Q0b01xVTZ0NURIcnZnNW14ZVRlamFmMjBDa1k2aXJDVnhQaGlfaWpTamJQLTd0Z2dmTnRoLUI5dXNkYXF2ekkxMVFtY0ZGMmJNeDFvdmhGLUZyYkdXUy1MUksybDh0R0t5QXdn?oc=5",
+        "date": "Thu, 12 Nov 2026 00:14:57 GMT"
+      },
+      {
+        "source": "Google News: Section 8 vouchers",
         "title": "BREAKING: A Broken Security Upgrade at HUD has Paralyzed the Operations of Housing Authorities Across the Country - Notes on the Crises",
         "description": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUlJMldRMVlrZVBaZ0loaDdYNVdSMlgwRDczM3FVWnRvdDg0VEpJWjdiOTM1Z3E3SVNlWllHd2wyQXUwbDZ4Rm5NbXBrN3R6X1ZXSjllQmJPQkZYSWsta0V0N1diRGZHM2lsX0I1WkJrdUNKRlV5SmxzX1ZYVEZKd19ZQTA0S3FDc2ExVHpWbEZUTmdFTm1rR3gzNk9jQkc0N2YyLUU4clpSY00zMDFYclFVREVSOUdPazc1RlFHcw?oc=5\" target=\"_blank\">BREAKING: A Broken Security Upgrade at HUD has Paralyzed the Operatio",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNUlJMldRMVlrZVBaZ0loaDdYNVdSMlgwRDczM3FVWnRvdDg0VEpJWjdiOTM1Z3E3SVNlWllHd2wyQXUwbDZ4Rm5NbXBrN3R6X1ZXSjllQmJPQkZYSWsta0V0N1diRGZHM2lsX0I1WkJrdUNKRlV5SmxzX1ZYVEZKd19ZQTA0S3FDc2ExVHpWbEZUTmdFTm1rR3gzNk9jQkc0N2YyLUU4clpSY00zMDFYclFVREVSOUdPazc1RlFHcw?oc=5",
         "date": "Tue, 10 Nov 2026 12:01:48 GMT"
-      },
-      {
-        "source": "Google News: Section 8 vouchers",
-        "title": "Proposed HUD Work Requirements Could Put Residents in Public and Assisted Housing at Risk of Housing Instability - Urban Institute",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRfNU9RNFJYdndGSlhyVnlQbWd0bHhUbWlRUFRVZ3JRRDJjOVA3enZSdHdHOUt4emtIZ2cydFd5VmVhZGFDMjNYWERHLWVWZEZHbkt6dGRDVWlMdHd1TjUwUldfMTVqdElzTThXM2VrZFFERlRja2Z6SEFBeHVEZkcxd1M2dTR0bXo3UThiS0hlNTE2eFdRSTdvcHlSQS1BMVVvdkg0ZnVjblZiZ0pad3VPRl85aHM?oc=5\" target=\"_blank\">Proposed HUD Work Requirements Could Put Residents in Public and Assisted Housin",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRfNU9RNFJYdndGSlhyVnlQbWd0bHhUbWlRUFRVZ3JRRDJjOVA3enZSdHdHOUt4emtIZ2cydFd5VmVhZGFDMjNYWERHLWVWZEZHbkt6dGRDVWlMdHd1TjUwUldfMTVqdElzTThXM2VrZFFERlRja2Z6SEFBeHVEZkcxd1M2dTR0bXo3UThiS0hlNTE2eFdRSTdvcHlSQS1BMVVvdkg0ZnVjblZiZ0pad3VPRl85aHM?oc=5",
-        "date": "Mon, 03 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "source": "Google News: Section 8 vouchers",
-        "title": "Applications to join Section 8 housing voucher waitlist in Hialeah begin Wednesday - NBC 6 South Florida",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm9NSmt2MWt3MGZkU2kyZUdiODV5SWpoVzlCX0VEVUpRTU9VOGF2Y0lydnNGU1RuRzMxOUFhX1k4SVRfeEZvMGpNeEZEbUZ1R0dRUlcxN3ZQaThmY3BuWTR6Zmpsa0JIS0JyMmZXODBsdlJBSngwd3hDUlVOcDBrNThaMEVrRlgzdngyM2I1OUdORVNtWTRNaTVtUFkyd2hIMjdzeTRhMjNmRzdWYnNCelBhZ9IBuwFBVV95cUxQcmdMaFVhZFhRMl9DZHl6NzhkaGZ6VjZoTTR3ODFQdTNzaVpBV3NuZTEtOEhKNGRhZmtwUFBmdnE1b1A0S09YdGE3ejkyaV",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSm9NSmt2MWt3MGZkU2kyZUdiODV5SWpoVzlCX0VEVUpRTU9VOGF2Y0lydnNGU1RuRzMxOUFhX1k4SVRfeEZvMGpNeEZEbUZ1R0dRUlcxN3ZQaThmY3BuWTR6Zmpsa0JIS0JyMmZXODBsdlJBSngwd3hDUlVOcDBrNThaMEVrRlgzdngyM2I1OUdORVNtWTRNaTVtUFkyd2hIMjdzeTRhMjNmRzdWYnNCelBhZ9IBuwFBVV95cUxQcmdMaFVhZFhRMl9DZHl6NzhkaGZ6VjZoTTR3ODFQdTNzaVpBV3NuZTEtOEhKNGRhZmtwUFBmdnE1b1A0S09YdGE3ejkyaVZsSzNXem9pbWFNbXIxOXU0VjFsSklqek5CX2tkRElZbnFPUDJyeC1PSGU3S3JXalVvN2szRV9XQmpmUFZVUFNyeUZWWFpvVlNyS0Vkam1BZ2VLMFRpQWlOMGVVYnUySDRjQ08yamZMeElIakw4?oc=5",
-        "date": "Tue, 21 Jul 2026 07:00:00 GMT"
       },
       {
         "source": "Google News: Section 8 vouchers",
@@ -288,20 +294,6 @@
         "description": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2txVndxVHoxOVNUb1drZU9KdWFGZC1XWU5ZTkcxZFR4LXFFME9ycDZoYTR6MnF6SnNKSDZvTDFzT3Q5cVotb2N5WGMwbW0zQWM5bkRXbkxHa3VIdEZ2b0djR2s2b2p1MGVJMElqS0EyNmJzbVg3VzZqZnFVVHNxUDlkRzlGOUw3c0ZNamdLSFV1U29GS19GbWV4REJQWFVIMWRQSQ?oc=5\" target=\"_blank\">HUD proposes time limits and work requirements for rental aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NPR</f",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2txVndxVHoxOVNUb1drZU9KdWFGZC1XWU5ZTkcxZFR4LXFFME9ycDZoYTR6MnF6SnNKSDZvTDFzT3Q5cVotb2N5WGMwbW0zQWM5bkRXbkxHa3VIdEZ2b0djR2s2b2p1MGVJMElqS0EyNmJzbVg3VzZqZnFVVHNxUDlkRzlGOUw3c0ZNamdLSFV1U29GS19GbWV4REJQWFVIMWRQSQ?oc=5",
         "date": "Fri, 27 Feb 2026 08:00:00 GMT"
-      },
-      {
-        "source": "Google News: Section 8 vouchers",
-        "title": "Section 8 Housing Assistance in Jeopardy From Proposed Cuts and Restrictions - Capital & Main",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDNodFplR20yRXJrYjc2bmU0N2xpU19zaFBPdUwtTmgyb1ZJOHFBakFQYlpXZ042VjdNOU9OZ1llcExyaV9mM08wMmtfU0NRcHJJR2hHT0NUZXRVSXA1NF8tWjJZM1RDUFlzNS1hb3owMGxEbHV3cmxicE1sMkJnZk9uN3FueGhUZWdscUJoc0ZvaVozZnhnWnRkZFZzc2Z6cmVWUUd3?oc=5\" target=\"_blank\">Section 8 Housing Assistance in Jeopardy From Proposed Cuts and Restrictions</a>&nbsp;&nbsp;<font color",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSDNodFplR20yRXJrYjc2bmU0N2xpU19zaFBPdUwtTmgyb1ZJOHFBakFQYlpXZ042VjdNOU9OZ1llcExyaV9mM08wMmtfU0NRcHJJR2hHT0NUZXRVSXA1NF8tWjJZM1RDUFlzNS1hb3owMGxEbHV3cmxicE1sMkJnZk9uN3FueGhUZWdscUJoc0ZvaVozZnhnWnRkZFZzc2Z6cmVWUUd3?oc=5",
-        "date": "Tue, 23 Dec 2025 08:00:00 GMT"
-      },
-      {
-        "source": "Google News: Section 8 vouchers",
-        "title": "Lawmakers take up stopgap funding for Section 8 housing vouchers - VTDigger",
-        "description": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZTZrb1dkRlJjQnlldUdheldURVZWcjdMSXYzamN0V0NFVVV4amE0UWdBeURfZ281WktwWWpRWk1jUW80UTNPMXlkTGpwMVBaQ1J3U00zNFRHbVpOS3kxbUpHbXBXT0hzVTdxOVRYbnBTZWRkaDg2cW5QOVpnM0RMODktUWZyRnZubjF0bmtwYVR2YXBaNWNnUFFpcllnUQ?oc=5\" target=\"_blank\">Lawmakers take up stopgap funding for Section 8 housing vouchers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VTDigger</f",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTZrb1dkRlJjQnlldUdheldURVZWcjdMSXYzamN0V0NFVVV4amE0UWdBeURfZ281WktwWWpRWk1jUW80UTNPMXlkTGpwMVBaQ1J3U00zNFRHbVpOS3kxbUpHbXBXT0hzVTdxOVRYbnBTZWRkaDg2cW5QOVpnM0RMODktUWZyRnZubjF0bmtwYVR2YXBaNWNnUFFpcllnUQ?oc=5",
-        "date": "Fri, 16 Jan 2026 08:00:00 GMT"
       }
     ],
     "joseph_videos": [
@@ -310,7 +302,7 @@
         "title": "You Don’t Need to Start a Business. Just Buy One of These.",
         "description": "Work with me 1:1 - https://app.callix.io/l/IRaSeP9\n\nHow to Get to 50 Doors ASAP - https://app.callix.io/l/eTL86or\n\nLearn how to start investing in Section 8 for FREE - https://app.callix.io/l/S51JkMs\n\nDealFinder AI - https://app.callix.io/l/Y2hyjb8\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\nTenantCloud: https://app.ten",
         "published_at": "2026-08-22T03:17:18Z",
-        "view_count": 1428,
+        "view_count": 1429,
         "like_count": 14,
         "comment_count": 1,
         "url": "https://youtube.com/watch?v=3hPQCm0Y4Go"
@@ -320,17 +312,27 @@
         "title": "How Landlords Actually LOSE Money",
         "description": "Work with me 1:1 - https://app.callix.io/l/a3f8quc\n\nHow to Get to 50 Doors ASAP - https://app.callix.io/l/Qoqp9Gx\n\nLearn how to start investing in Section 8 for FREE - https://app.callix.io/l/yrM0bno\n\nDealFinder AI - https://app.callix.io/l/5sDH65r\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\nTenantCloud: https://app.ten",
         "published_at": "2026-08-07T15:58:04Z",
-        "view_count": 648,
+        "view_count": 649,
         "like_count": 26,
         "comment_count": 4,
         "url": "https://youtube.com/watch?v=xucHjyA4bjY"
+      },
+      {
+        "video_id": "eGGB-LV_ssQ",
+        "title": "My Student Copied 1 Boring Rental 31 Times",
+        "description": "Join my Free LIVE Masterclass this Sunday - https://app.callix.io/l/hR4fUXd\n\nWork with me 1:1 - https://investingsection8.com/\n\nDealFinder AI - https://www.dealfinderai.org/\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\n\nTenantCloud: https://app.tenantcloud.com/signup?affiliate=enhb4qunkzyyp3jp\n\nBusiness Bank Account: htt",
+        "published_at": "2026-11-07T16:49:00Z",
+        "view_count": 640,
+        "like_count": 14,
+        "comment_count": 0,
+        "url": "https://youtube.com/watch?v=eGGB-LV_ssQ"
       },
       {
         "video_id": "Ohg90x2pkok",
         "title": "How I'd Invest $25,000 Into Real Estate in 2026.",
         "description": "Work with me 1:1 - https://app.callix.io/l/9uylApe\n\nHow to Get to 50 Doors ASAP - https://app.callix.io/l/Gb4CjBB\n\nLearn how to start investing in Section 8 for FREE - https://app.callix.io/l/qoxISDD\n\nDealFinder AI - https://app.callix.io/l/p3tgbsR\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\nTenantCloud: https://app.ten",
         "published_at": "2026-10-17T18:58:47Z",
-        "view_count": 545,
+        "view_count": 549,
         "like_count": 13,
         "comment_count": 2,
         "url": "https://youtube.com/watch?v=Ohg90x2pkok"
@@ -340,27 +342,17 @@
         "title": "The EXACT Offer Contract That’s Made Me Millions in Real Estate",
         "description": "Work with me 1:1 - https://app.callix.io/l/zUoOJp5\n\nHow to Get to 50 Doors ASAP - https://app.callix.io/l/5xOYZ6a\n\nLearn how to start investing in Section 8 for FREE - https://app.callix.io/l/g7gIkrJ\n\nDealFinder AI - https://app.callix.io/l/v1RD5Zn\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\nTenantCloud: https://app.ten",
         "published_at": "2026-08-29T21:17:53Z",
-        "view_count": 518,
+        "view_count": 519,
         "like_count": 13,
         "comment_count": 1,
         "url": "https://youtube.com/watch?v=sFgKivpMgZk"
-      },
-      {
-        "video_id": "ygTQ-d9qZcg",
-        "title": "Buy a House With $0 (BRRRR Method Explained)",
-        "description": "Work with me 1:1 - https://app.callix.io/l/LG4eaSz\n\nLive Masterclass Registration - https://app.callix.io/l/cCzTpii\n\nLearn how to start investing in Section 8 for FREE - https://app.callix.io/l/qDSioKS\n\nDealFinder AI - https://app.callix.io/l/a91sly7\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\nTenantCloud: https://app.t",
-        "published_at": "2026-07-11T21:05:29Z",
-        "view_count": 514,
-        "like_count": 25,
-        "comment_count": 3,
-        "url": "https://youtube.com/watch?v=ygTQ-d9qZcg"
       },
       {
         "video_id": "EcgwMDjwvTE",
         "title": "These Section 8 Houses Will Lose You Money",
         "description": "Join my Free LIVE Masterclass this Sunday - https://app.callix.io/l/QMHQauk\n\nGet to 50 Doors as FAST as Possible: https://app.callix.io/l/UmVsRbm\n\nReach out to me here:\n👥 Tiktok: https://trakyo.link/004f59bf\n📷 Instagram: https://trakyo.link/73f02a9a\n👍 Facebook: https://trakyo.link/4c589924",
         "published_at": "2026-10-27T16:46:05Z",
-        "view_count": 427,
+        "view_count": 433,
         "like_count": 9,
         "comment_count": 0,
         "url": "https://youtube.com/watch?v=EcgwMDjwvTE"
@@ -370,20 +362,20 @@
         "title": "The Govt just made it 10X Easier to Make Money in 2026",
         "description": "Work with me 1:1 - https://app.callix.io/l/xDHxwHv\n\nHow to Get to 50 Doors ASAP - https://app.callix.io/l/FE9JZK7\n\nLearn how to start investing in Section 8 for FREE - https://app.callix.io/l/LK9mB6d\n\nDealFinder AI - https://app.callix.io/l/rekki0v\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\nTenantCloud: https://app.ten",
         "published_at": "2026-09-24T01:51:56Z",
-        "view_count": 357,
+        "view_count": 359,
         "like_count": 17,
         "comment_count": 3,
         "url": "https://youtube.com/watch?v=w05hai2MQh4"
       },
       {
-        "video_id": "eGGB-LV_ssQ",
-        "title": "My Student Copied 1 Boring Rental 31 Times",
-        "description": "Join my Free LIVE Masterclass this Sunday - https://app.callix.io/l/hR4fUXd\n\nWork with me 1:1 - https://investingsection8.com/\n\nDealFinder AI - https://www.dealfinderai.org/\n\nResources I 1000% Recommend (affiliate links):\nDealcheck.io (BESTDEAL for 20% off!): https://dealcheck.io?fp_ref=joseph81\n\nTenantCloud: https://app.tenantcloud.com/signup?affiliate=enhb4qunkzyyp3jp\n\nBusiness Bank Account: htt",
-        "published_at": "2026-11-07T16:49:00Z",
-        "view_count": 351,
-        "like_count": 13,
-        "comment_count": 0,
-        "url": "https://youtube.com/watch?v=eGGB-LV_ssQ"
+        "video_id": "Cuv3g02wloc",
+        "title": "Section 8 Is Changing. Only 3 Things Matter",
+        "description": "Work With Me 1 on 1: https://app.callix.io/l/7jjhUKQ\n\nJoin my Free LIVE Masterclass this Sunday - https://app.callix.io/l/bL319wP\n\nFree 7 Day Trial to DealFinder AI: https://app.callix.io/l/dqF31fe\n\nReach out to me here:👥 TikTok: https://www.tiktok.com/@josephkhaterire\n📷 Instagram: https://www.instagram.com/joseph_section8/\n👍 Facebook: https://www.facebook.com/p/Joseph-Khateri-Realtor-100086876191",
+        "published_at": "2026-11-02T20:30:14Z",
+        "view_count": 358,
+        "like_count": 6,
+        "comment_count": 4,
+        "url": "https://youtube.com/watch?v=Cuv3g02wloc"
       }
     ],
     "student_wins": [
@@ -431,8 +423,8 @@
     "weekly_goal": 3,
     "reddit_items": 25,
     "reddit_questions": 7,
-    "yt_comments": 5,
+    "yt_comments": 4,
     "yt_questions": 0,
-    "news_items": 57
+    "news_items": 58
   }
 }
